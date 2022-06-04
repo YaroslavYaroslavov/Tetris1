@@ -1,0 +1,91 @@
+.color_0 {
+    background-color: white;
+    width: 20px;
+    min-width: 20px;
+    color: white;
+    padding-left: 10px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.startButton {
+    display: block;
+    margin: auto;
+}
+
+.color_1 {
+    background-color: blue;
+    display: flex;
+    color: blue;
+    border: 1px solid black;
+    padding-left: 10px;
+    flex-direction: row;
+    width: 20px;
+    /* margin-right: 10px;   */
+}
+
+.color_2 {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.color_3 {
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.color_4 {
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.color_5 {
+    background-color: orange;
+    display: flex;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.color_6 {
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.color_7 {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.color_9 {
+    width: 20px;
+    margin-right: 10px;
+}
+
+.color_11 {
+    margin: auto;
+    max-width: 20px;
+    padding-left: 2.6px;
+    background-color: blue;
+    color: blue;
+    border: 1px solid black;
+}
